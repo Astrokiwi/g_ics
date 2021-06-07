@@ -640,7 +640,6 @@ subroutine file_locs_vels
         allocate(iarg(n_velpos_input))
         
         print *,n_velpos_input
-        print *,size(r(1,1:n_velpos_input))
 
         open(unit=16,file=adjustl(trim(velpos_file)),form='unformatted')
         read(16) r(1,1:n_velpos_input)

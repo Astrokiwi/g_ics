@@ -1,0 +1,12 @@
+outfile data/test_10k.dat
+mtot 1.
+N 10000
+NumofBHs 1
+bh_mass 1.e6
+disc_inner_rad 0.1e-3
+disc_thick 0.1e-3
+surf 1.e-4
+c_scale 31.6e-8
+hernquist mode
+hernquist_scale .250
+hernquist_mass 0.d1

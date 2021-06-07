@@ -1,0 +1,12 @@
+outfile data/full_ecc_earlier.dat
+mtot 717.4692
+N_in 7174692
+N 7174692
+NumofBHs 2
+c_scale 1.e-8
+bh_mass 1.e3
+bh_mass 1.e3
+hernquist mode
+hernquist_scale .250
+hernquist_mass 0.d1
+pvfile /srv/djw1g16/gizmos/ICs/norad_prod_small_ecc_snapshot_147.dat

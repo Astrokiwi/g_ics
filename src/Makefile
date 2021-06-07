@@ -1,6 +1,6 @@
 FORT = gfortran
-#OPTIONS = -O3 -Wall -mcmodel=medium
-OPTIONS = -g -Wall -mcmodel=medium -fbacktrace
+OPTIONS = -O3 -Wall -mcmodel=medium
+#OPTIONS = -g -Wall -mcmodel=medium -fbacktrace
 
 FFLAGS = ${OPTIONS}
 
